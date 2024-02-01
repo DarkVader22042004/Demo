@@ -1,0 +1,23 @@
+div {
+    font-size: 150px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+#Info {
+    font-size: 18px;
+    font-family: serif;
+    text-align: left;
+}
+
+h3 {
+    font-weight: 200;
+}
+
+
+summary {
+    font-weight: 800;
+    border: 0%;
+    background-color: rgb(255, 255, 255);
+}
